@@ -5,3 +5,7 @@ h2{color:red}
 h3{color:green}
 
 p{color:black; text-align:center;}
+
+
+div p{text-align:left;}
+div h1{color:purple ;}
