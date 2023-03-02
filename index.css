@@ -1,0 +1,29 @@
+body {color: cornflowerblue;
+
+}
+
+
+h1{color:red; 
+    text-align: center;}
+
+*.whatever{color: green;
+    font-size: 25px;
+}
+
+#nestPara{color:purple; 
+    font-size:30px;
+padding: 10px;
+border: dotted 10px green;
+margin: 10px;
+}
+
+.list{
+padding: 5em;
+border: 2em dashed purple;
+margin: 5em;
+}
+
+.item ::marker{
+    color:  cornflowerblue;
+
+}
